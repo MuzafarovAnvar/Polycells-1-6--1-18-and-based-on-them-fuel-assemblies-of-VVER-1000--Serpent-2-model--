@@ -1,0 +1,1 @@
+Using these simplified models, calculations can be performed to obtain neutronic parameters at the fuel assembly level, with lower CPU loads. The resulting data will be similar to those for a real fuel assembly. Corresponding comparisons have been made.
